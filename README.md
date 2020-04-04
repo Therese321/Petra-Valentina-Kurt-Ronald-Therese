@@ -7,9 +7,14 @@ das wird Probleme geben
 ich bin schon gespannt
 
 =======
-<<<<<<< HEAD
-# thereses_repo
+<<<<<<< HEAD# thereses_repo
+
+
+
+
+
 1
+
 2
 3
 4
@@ -19,6 +24,9 @@ TEST Valentina
 #erste zeile
 zzweite zeile
 dritte zeile
+
+
+Das sind Petras Änderungen. 4. April 2020; 17:55
 
 vierte zeile
 ffuenfte zeile
