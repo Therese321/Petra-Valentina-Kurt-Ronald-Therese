@@ -25,4 +25,5 @@ ffuenfte zeile
 
 noche ine zeilethereses_repo
 >>>>>>> 36fa7393babd0f3a851f009e41d7f2cf91c1f979
+Änderungen von Valentina, nachdem Petra ihre Änderungen hochgeladen hat - keine txt Files mehr
 >>>>>>> 694fa25980ecb49c2b66386fdded6e1fd40687bb
