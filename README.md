@@ -2,7 +2,7 @@
 # thereses_repo
 hier sind neue Zeilen 
 ich muss viel schreiben
-ich kann eine Konflict erahnen
+ch kann eine Konflict erahnen
 das wird Probleme geben
 ich bin schon gespannt
 
@@ -15,13 +15,11 @@ ich bin schon gespannt
 4
 5
 TEST Valentina
-=======
-#erste zeile
-zzweite zeile
+=Insert von Kurt zu Aufgabe Punkt 1Insert von Kurt zu Aufgabe Punkt 1Insert von Kurt zu Aufgabe Punkt 1000======
+Insert von Kurt zu Aufgabe Punkt 10#erste zeile zzweite zeile
 dritte zeile
 
-vierte zeile
-ffuenfte zeile
+vierte zeile ffuenfte zeile
 
 ___________________
 
@@ -38,4 +36,21 @@ noche ine zeilethereses_repo
 Änderungen von Valentina, nachdem Petra ihre Änderungen hochgeladen hat - keine txt Files mehr
 >>>>>>> 694fa25980ecb49c2b66386fdded6e1fd40687bb
 
-ein bisschen zusätzlicher TEXT zum TEST
+ -L
+ -L
+ -L
+ -L
+ -L
+ -L
+ -L
+
+
+
+
+
+
+
+
+
+
+
